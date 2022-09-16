@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunknebula_web"]=self["webpackChunknebula_web"]||[]).push([[676],{23136:function(e,n,s){s.r(n),s.d(n,{default:function(){return c}});var u=function(){var e=this,n=e._self._c;return n("div",{staticClass:"page message"},[e._v("message")])},l=[],a=s(43736),t={},r=(0,a.Z)(t,u,l,!1,null,null,null),c=r.exports}}]);
